@@ -1,0 +1,15 @@
+DISNEY QUIZ GAME
+
+Developed by ALESSANDRO DEFENDENTI
+
+Co-Developers:
+Luca Tagliabue
+Marco Predari
+
+Beta-Testing:
+Federica Defendenti
+Carmen Giova
+Elisabeth Attia Rezk Alla
+Federico Campanelli
+
+Copyright (c) 2012 Creative Commons by Alessandro Defendenti
